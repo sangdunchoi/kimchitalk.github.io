@@ -1,0 +1,39 @@
+# TODO: add redcarpet extensions when becomming comfortable with markdown
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               'Tonic'
+tagline:             'Anything Invigorating'
+description:         ''
+url:                 www.kimchitalk.info
+baseurl:             '/'
+
+# Use paginate to set the number of pages shown
+paginate:            5
+
+gems:
+- jekyll-paginate
+
+excerpt_separator: '<br>'
+
+
+author:
+  name: 'Amritha Suresh'
+  github: amrithasuresh
+  email_md5: b2871fa91a85b6ecdbf25ce07bd9c028
+  google_analytics_id: UA-92396286-1
+  google_analytics_url: www.kimchitalk.info
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/amrithasuresh
+ 
