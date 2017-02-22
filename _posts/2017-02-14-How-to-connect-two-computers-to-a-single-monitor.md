@@ -17,7 +17,7 @@ Required :
  * Two computers
 
 
-If you are in korea like me you can buy KVM Switch from [coupang](https://www.coupang.com/). Pricing starts from 17,000 KRW. Search using the keyword "KVM Switch".
+If you are in korea like me you can buy KVM Switch from [coupang](https://www.coupang.com/){:target="_blank"}. Pricing starts from 17,000 KRW. Search using the keyword "KVM Switch".
 
 
 
