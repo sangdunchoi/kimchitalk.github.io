@@ -6,6 +6,8 @@ tags: [Interesting article, Science, Snake Venom, University of Mysore]
 comments: true
 ---
 
+<img src="/images/snake.jpg?raw=true" style="width: 800px;"/>
+*Public domain photo - [Author: Jon Sullivan](http://www.public-domain-photos.com/animals/snake-free-stock-photo-4.htm){:target="_blank"}*
 
 I  usually read blog of [Ed yong](https://twitter.com/edyong209?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor){:target="_blank"} science writer found him through twitter.
 
