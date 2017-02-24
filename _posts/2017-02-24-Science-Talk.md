@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Synchronized dancing of liquid crystals is fascinating"
-date: 2017-02-23
+date: 2017-02-24
 tags: [science talk, post-doc, liquid crystals, University of Kalyani]
 comments: true
 ---
