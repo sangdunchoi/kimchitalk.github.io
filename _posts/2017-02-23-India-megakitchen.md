@@ -27,4 +27,4 @@ I learned perhaps may be it is imposter-syndrome. You can read it here.
  We are in fortunate position who have the ability to change our lives as well as others. Either our degrees are namesake or we don't critically think to improve at least our lives. Hope this video inspires you.
 
 
- *It is to be noted here there is a controversy regarding the founder.
+ *It is to be noted here there is a [controversy](https://www.reddit.com/r/india/comments/51qawm/indias_mega_kitchen_kalinga_institute_of_social/){:target="_blank"}. regarding the founder.
