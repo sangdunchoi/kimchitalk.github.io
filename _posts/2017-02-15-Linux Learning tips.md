@@ -2,7 +2,7 @@
 layout: post
 title: "Linux Learning tips"
 date: 2017-02-14
-tags: [linux, tips, beginner]
+tags: [Linux]
 comments: true
 ---
 &nbsp;

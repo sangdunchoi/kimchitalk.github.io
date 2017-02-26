@@ -2,7 +2,7 @@
 layout: post
 title: "How to connect two computers to a single monitor?"
 date: 2017-02-14 21:00
-tags: [computers, monitor]
+tags: [Computers]
 comments : true
 ---
 &nbsp;

@@ -2,7 +2,7 @@
 layout: post
 title: "India's Mega Kitchen - Kalinga Institute Of Social Science"
 date: 2017-02-23
-tags: [Interesting videos, inspiring]
+tags: [Interesting-videos, Indian-institutes]
 comments: true
 ---
 

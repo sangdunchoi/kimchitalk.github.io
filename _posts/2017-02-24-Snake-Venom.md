@@ -2,7 +2,7 @@
 layout: post
 title: "A Study suggests possible therapeutic potential for Snake bite."
 date: 2017-02-23
-tags: [Interesting article, Science, Snake Venom, University of Mysore]
+tags: [Interesting-articles, Snake-venom, Indian-universities]
 comments: true
 ---
 

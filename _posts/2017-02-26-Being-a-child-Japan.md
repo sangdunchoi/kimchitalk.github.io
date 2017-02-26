@@ -2,7 +2,7 @@
 layout: post
 title: "Being A Child: Japan"
 date: 2017-02-26
-tags: [Children-Education, Depressing-Videos, Barbaric, How-to-spoil-enthusiasm]
+tags: [Education, Professions]
 comments: true
 ---
 &nbsp;

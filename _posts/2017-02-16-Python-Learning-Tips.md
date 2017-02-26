@@ -2,7 +2,7 @@
 layout: post
 title: "Python Learning Tips"
 date: 2017-02-16
-tags: [python, tips, beginner]
+tags: [Python]
 comments: true
 ---
 &nbsp;

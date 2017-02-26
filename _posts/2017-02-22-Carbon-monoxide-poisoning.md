@@ -2,7 +2,7 @@
 layout: post
 title: "Antidote for carbon monoxide poisoning"
 date: 2017-02-22
-tags: [interesting article]
+tags: [Interesting-articles]
 comments: true
 ---
 &nbsp;
