@@ -5,12 +5,15 @@ date: 2017-02-23
 tags: [Interesting-videos, Indian-institutes]
 comments: true
 ---
-
-[India's Mega Kitchen - Kalinga Institute Of Social Science (KISS)](https://www.youtube.com/watch?v=MF-cLIAIFjQ){:target="_blank"}*
+&nbsp;
 
 [Kalinga Institute Of Social Sciences](https://www.kiss.ac.in/){:target="_blank"}
 
-To cook for a single person needs effort and planning. How about cooking 50,000 meals per day. How much planning and efforts are needed? It is very very tedious. Here you can see the [video](https://www.youtube.com/watch?v=MF-cLIAIFjQ){:target="_blank"}. This video is inspiring. We the so-called educated people often pessimistic. You can talk either to your friend who has Ph.D. often turns out to be fearful/pessimistic compared to an undergraduate. I felt sometimes daily labour are more confident towards life than us.
+
+{% include youtube.html id="MF-cLIAIFjQ" %}
+
+To cook for a single person needs effort and planning. How about cooking 50,000 meals per day. How much planning and efforts are needed? It is very very tedious. This video is inspiring. We the so-called educated people often pessimistic. You can talk either to your friend who has Ph.D. often turns out to be fearful/pessimistic compared to an undergraduate. I felt sometimes daily labour are more confident towards life than us.
+
 
 I learned perhaps may be it is imposter-syndrome. You can read it here.
 

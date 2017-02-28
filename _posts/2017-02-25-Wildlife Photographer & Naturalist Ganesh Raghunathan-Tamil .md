@@ -7,8 +7,9 @@ comments: true
 ---
 &nbsp;
 
+{% include youtube.html id="edNgKw1XpRo" %}
 
-[![Naturalist Ganesh Raghunathan](https://img.youtube.com/vi/edNgKw1XpRo/0.jpg)](https://www.youtube.com/watch?v=edNgKw1XpRo "Naturalist Ganesh Raghunathan")
+
 
 
 
