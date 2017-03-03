@@ -85,3 +85,5 @@ There is a [learnpython sub-reddit](https://www.reddit.com/r/learnpython/){:targ
 * [How to use Git and GitHub?](https://www.udacity.com/course/how-to-use-git-and-github--ud775){:target="_blank"}
 
 * No, I want to learn in 15 minutes. [Ok here you go](https://try.github.io/levels/1/challenges/1){:target="_blank"}.
+
+### Christian Gen's course suggestion (http://christian.gen.co/you-should-learn-to-program)
