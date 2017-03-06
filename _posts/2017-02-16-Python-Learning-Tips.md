@@ -87,3 +87,102 @@ There is a [learnpython sub-reddit](https://www.reddit.com/r/learnpython/){:targ
 * No, I want to learn in 15 minutes. [Ok here you go](https://try.github.io/levels/1/challenges/1){:target="_blank"}.
 
 ### Christian Gen's course suggestion (http://christian.gen.co/you-should-learn-to-program)
+
+### More tips for a beginner
+
+&nbsp;
+
+<div class="coolBorder">
+
+Do not copy and paste the codes. Type the code line by line. This helps you to build your muscle memory.
+
+</div>
+
+&nbsp;
+
+<div class="coolBorder">
+
+Focus on a small problem and finish that script.
+
+</div>
+
+&nbsp;
+
+<div class="coolBorder">
+
+Write steps in plain english or your own langauge. eg;
+
+&nbsp;
+
+* Read the path of the file
+* Read the name of the file
+* Open the file
+* Read the lines
+* Print only the first line.
+* Close the file
+
+</div>
+
+&nbsp;
+
+<div class="coolBorder">
+
+Read code the codes
+
+</div>
+
+&nbsp;
+
+<div class="coolBorder">
+
+Clearly formulate the questions in online forums. 
+
+</div>
+
+&nbsp;
+
+<div class="coolBorder">
+
+Share the written codes in reddit. They will help you to correct the mistakes.
+
+</div>
+
+&nbsp;
+
+<div class="coolBorder">
+
+Google the questions.
+
+</div>
+
+&nbsp;
+
+<div class="coolBorder">
+
+Practice.
+
+</div>
+
+&nbsp;
+
+<div class="coolBorder">
+
+Choose the projects that interests you.
+
+</div>
+
+&nbsp;
+
+<div class="coolBorder">
+
+Ask stupid questions.
+
+</div>
+
+&nbsp;
+
+<div class="coolBorder">
+
+It's never too late to learn.
+
+</div>
