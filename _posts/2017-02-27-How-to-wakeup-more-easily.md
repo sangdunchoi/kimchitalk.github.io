@@ -2,7 +2,7 @@
 layout: post
 title: "How to wakeup more easily?"
 date: 2017-02-27
-tags: [tips]
+tags: [Tips]
 comments: true
 ---
 

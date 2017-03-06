@@ -21,7 +21,12 @@ Both their thoughts somehow echoed in my ears for a long time.
 
 * I will write related to Science, Engineering and Technology. 
 
-* I used to get hoax messages in WhatsApp. Just to make me and others aware I will write about it.
+* I often recieve hoax messages in WhatsApp. As of now the number of active users in India are around 20 crore (200 million). It is huge numbers. Just to make me and others aware about hoax messages I will write about it. You may ask what are the consequences of these hoax messages. Here you can read the coverage ["WhatsApp rumours about vaccinations hamper India's drive to halt measles and rubella"]("https://scroll.in/pulse/830129/rumours-about-measles-rubella-vaccine-hit-coverage"). It is also to be noted that Indian public are proud of polio eradication in India. Here is the [BBC news story]("http://www.bbc.com/news/world-asia-india-25709362") that wrote like this
+
+>Despite these obstacles, India proved to the world how to conquer this disease: through the strong commitment of the government, seamless partnership comprising the government, Rotary clubs, WHO and Unicef, and above all the tireless hard work of millions of front-line workers - vaccinators, social mobilisers and community and health workers - who continue to implement innovative strategies to rid India of polio.
+
+Without critical thinking, believing the rumours will harm the society in different ways. 
+
 
 * I will write codes and try to explain. 
 

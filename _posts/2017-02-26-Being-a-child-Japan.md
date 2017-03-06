@@ -2,7 +2,7 @@
 layout: post
 title: "Being A Child: Japan"
 date: 2017-02-26
-tags: [Education, Professions]
+tags: [Education]
 comments: true
 ---
 &nbsp;

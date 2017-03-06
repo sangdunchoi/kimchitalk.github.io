@@ -2,7 +2,7 @@
 layout: post
 title: "How to contribute to opensource projects in github?"
 date: 2017-03-06
-tags: [tips]
+tags: [Tips]
 comments: true
 ---
 &nbsp;

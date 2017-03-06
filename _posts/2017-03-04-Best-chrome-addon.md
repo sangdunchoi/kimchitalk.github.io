@@ -2,7 +2,7 @@
 layout: post
 title: "Best chrome addons"
 date: 2017-03-04
-tags: [computer]
+tags: [Tips]
 comments: true
 ---
 [Google dictionary](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja?hl=en)
