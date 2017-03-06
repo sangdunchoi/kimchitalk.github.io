@@ -7,9 +7,36 @@ comments: true
 ---
 &nbsp;
 
-Here is the [good introduction article](https://medium.freecodecamp.com/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.yh8g1b5u5).
+Here are the good introduction articles
+
+* [How to contribute a patch to a github](http://www.hanselman.com/blog/GetInvolvedInOpenSourceTodayHowToContributeAPatchToAGitHubHostedOpenSourceProjectLikeCode52.aspx)
+
+* [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/)
+
+* [Help out your favorite open source projects and become a better developer while doing it.](https://www.codetriage.com/)
+
+* [Open Source Guides](https://opensource.guide/)
+
+* [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+
+* [Finding your first open source projects](https://medium.freecodecamp.com/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.yh8g1b5u5).
+
+* [8 non-code ways to contribute to open source](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code)
+
+* [What open source project should I contribute to?](https://medium.com/@kentcdodds/what-open-source-project-should-i-contribute-to-7d50ecfe1cb4#.vd3p649yl)
+
+* [The Beginner’s Guide to Contributing to Open Source Projects](https://blog.newrelic.com/2014/05/05/open-source_gettingstarted/)
 
 &nbsp;
+
+
+
+### Read the label guide
+
+* [Issues](http://issuehub.io/)
+
+
+
 
 ### Choose any one of the tags to find your own interesting projects
 
