@@ -6,7 +6,7 @@ tags: [Science-talks, Indian-universities]
 comments: true
 ---
 <img src="/images/Arup.jpg?raw=true" style="width: 200px;"/>
-*Arup Ghosh is about to graduate in Ph.D. Industrial engineering. You can contact Arup on [Facebook](https://www.facebook.com/Dr.ArupGhosh) and  [linkedin](https://www.linkedin.com/in/arup-ghosh-95815a41)*
+*Arup Ghosh is about to graduate in Ph.D. Industrial engineering. You can contact Arup on [Facebook](https://www.facebook.com/Dr.ArupGhosh) and  [Linkedin](https://www.linkedin.com/in/arup-ghosh-95815a41)*
 
 ---
 #### Where did you finish undergraduate?.
