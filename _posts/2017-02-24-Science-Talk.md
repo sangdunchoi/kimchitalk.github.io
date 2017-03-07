@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Synchronized dancing of liquid crystals are fascinating"
+title: "Synchronized dancing of liquid crystals is fascinating."
 date: 2017-02-24
 tags: [Science-talks, Indian-universities]
 comments: true
