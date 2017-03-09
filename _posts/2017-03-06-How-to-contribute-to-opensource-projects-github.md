@@ -38,7 +38,7 @@ Here are the good introduction articles
 
 
 
-### Choose any one of the tags to find your own interesting projects
+### Choose any one of the tags to find your own interesting projects. These links are from this [article](https://medium.freecodecamp.com/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.yh8g1b5u5).
 
 &nbsp;
 
@@ -75,3 +75,5 @@ Here are the good introduction articles
 &nbsp;
 
 * New contributor - [is:issue is:open label:"new contributor"](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22new+contributor%22+&type=Issues&ref=searchresults)
+
+
