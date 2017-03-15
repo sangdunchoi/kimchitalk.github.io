@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Interesting-reads."
+title: "Interesting reads"
 date: 2017-03-11
 tags: [Interesting-reads]
 comments: true
