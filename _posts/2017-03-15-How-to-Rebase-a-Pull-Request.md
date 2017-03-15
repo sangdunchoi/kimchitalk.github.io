@@ -13,19 +13,20 @@ When many different people are working on a project simultaneously, pull request
 
 ## What is a rebase?
 
-<img alt="master" src="git-diagrams/master.png" style="float:right">
+
+<img src="/images/master.png?raw=true" alt="Drawing" style="width: 200px;"/>
 
 To understand this, we need to understand a bit about how Git works. A Git repository is a tree structure, where the nodes of the tree are commits. Here's an example of a very simple repository: it has four commits on the master branch, and each commit has an ID (in this case, `a`, `b`, `c`, and `d`). You'll notice that `d` is currently the latest commit (or HEAD) of the `master` branch.
 
 <div style="clear:both"></div>
-<img alt="master and my-branch" src="git-diagrams/branch.png" style="float:right">
+<img src="/images/branch.png?raw=true" alt="Drawing" style="width: 200px;"/>
 
 Here, we have two branches: `master` and `my-branch`. You can see that `master` and `my-branch` both contain commits `a` and `b`, but then they start to diverge: `master` contains `c` and `d`, while `my-branch` contains `e` and `f`. `b` is said to be the "merge base" of `my-branch` in comparison to `master` -- or more commonly, just the "base". It makes sense: you can see that `my-branch` was based on a previous version of `master`.
 
 So let's say that `my-branch` has gone stale, and you want to bring it up to date with the latest version of `master`. To put it another way, `my-branch` needs to contain `c` and `d`. You could do a merge, but that causes the branch to contain weird merge commits that make reviewing the pull request much more difficult. Instead, you can do a [rebase](http://www.git-scm.com/book/en/Git-Branching-Rebasing).
 
 <div style="clear:both"></div>
-<img alt="rebase" src="git-diagrams/rebase.png" style="float:right">
+<img src="/images/rebase.png?raw=true" alt="Drawing" style="width: 200px;"/>
 
 When you rebase, Git finds the base of your branch (in this case, `b`), finds all the commits between that base and HEAD (in this case, `e` and `f`), and *re-plays* those commits on the HEAD of the branch you're rebasing onto (in this case, `master`). Git actually creates *new commits* that represent what your changes look like *on top of* `master`: in the diagram, these commits are called `e′` and `f′`. Git doesn't erase your previous commits: `e` and `f` are left untouched, and if something goes wrong with the rebase, you can go right back to the way things used to be.
 

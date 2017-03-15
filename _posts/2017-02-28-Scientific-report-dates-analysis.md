@@ -57,7 +57,7 @@ Total no. of days = Published online - Recieved date
 
 ### Let's view the file using ipython notebook as linux shell by using the below command. Search google how to use ipython notebook [Jupiter notebook].
 
-### You can also download the [ipython worksheet here](/data/Scientific_report_dates_analysis.ipynb). It looks neat than this post. I converted ipython worksheet into mardown pages. So the presentation as well as alignment is not good.
+### You can also download the [ipython worksheet here](/data/scientific_report_dates_analysis.ipynb). It looks neat than this post. I converted ipython worksheet into mardown pages. So the presentation as well as alignment is not good.
 
 ```python
 
