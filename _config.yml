@@ -16,7 +16,7 @@ url:                 www.kimchitalk.info
 baseurl:             '/'
 
 # Use paginate to set the number of pages shown
-paginate:            5
+paginate:            1
 
 gems:
 - jekyll-paginate
