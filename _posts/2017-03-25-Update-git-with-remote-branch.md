@@ -14,6 +14,8 @@ git clone git@github.com:amrithasuresh/Theano.git
 ### Add remote
 cd Theano/
 git remote add upstream git://github.com/Theano/Theano.git
+
+### Fetch
 git fetch upstream
 
 ### Updating your fork 
