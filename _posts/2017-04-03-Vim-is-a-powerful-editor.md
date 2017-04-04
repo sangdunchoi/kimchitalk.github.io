@@ -126,7 +126,7 @@ Recently, I read this post in vim subreddit
 #### WikiLeaks publish CIA's vim user tips (see the links below)
 
 <img src="/images/wiki-leaks-vim.png?raw=true" style="width: 800px;"/>
-[source](https://www.reddit.com/r/vim/comments/5y0g2z/wikileaks_publish_cias_vim_user_tips_yes_really/)
+[See source](https://www.reddit.com/r/vim/comments/5y0g2z/wikileaks_publish_cias_vim_user_tips_yes_really/)
 
 
 #### Tips
